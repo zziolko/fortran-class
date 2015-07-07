@@ -8,7 +8,7 @@ program data_types
   character :: d
   complex   :: e
 
-  print *,'Before assignement'
+  print *,'Before assignment'
   print *,'logical   : ',a
   print *,'integer   : ',b
   print *,'real      : ',c
@@ -21,7 +21,7 @@ program data_types
   d = 'a'
   e = (1.0,0.0)
 
-  print *,'After assignement'
+  print *,'After assignment'
   print *,'logical   : ',a
   print *,'integer   : ',b
   print *,'real      : ',c
