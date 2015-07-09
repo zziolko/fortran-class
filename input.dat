@@ -1,0 +1,6 @@
+&molecule
+  momentum = 0,
+  mass = 123.0,
+  nelectrons = 4,
+  charge = -2,
+/
